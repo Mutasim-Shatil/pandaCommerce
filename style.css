@@ -42,10 +42,20 @@
   width: 100px;
 }
 .card {
-    border: none;
-    box-shadow: 5px 5px 10px lightgray;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
 }
 .card-footer {
-    border: none;
-    background-color: white;
+  border: none;
+  background-color: white;
+}
+#subscribe {
+  height: 200px;
+}
+#subscribe h6 {
+  color: gray;
+}
+footer {
+  text-align: center;
 }
